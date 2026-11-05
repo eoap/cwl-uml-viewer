@@ -1,6 +1,6 @@
 annotated-types==0.8.0
 CacheControl==0.14.4
-certifi==2026.7.22
+certifi==2026.10.23
 charset-normalizer==3.5.1
 cwl-loader==0.26.0
 cwl-upgrader==1.2.15

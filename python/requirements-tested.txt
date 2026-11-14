@@ -7,7 +7,7 @@ cwl-upgrader==1.2.15
 cwl-utils==0.45
 cwl2ogc==0.22.2
 cwl2puml==0.49.1
-dnspython==2.9.1
+dnspython==2.9.2
 email-validator==2.3.0
 filelock==4.2.6
 httplib2==0.32.1
